@@ -61,12 +61,4 @@ MSc Mathematics with Data Science graduate with a strong foundation in statistic
   <a href="https://github.com/shibilasherinn">GitHub</a>
 </p>
 
----
-
-### 📬 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/shibila-sherin-m-99881b3a1">LinkedIn</a> •
-  <a href="https://github.com/shibilasherinn">GitHub</a>
-</p>
 
