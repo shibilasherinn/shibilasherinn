@@ -10,11 +10,9 @@
 
 ### 👩‍💻 About Me
 
-MSc Mathematics with Data Science graduate from Kerala, building end-to-end projects across ML, NLP, and BI. Seeking Data Scientist / Data Analyst roles.
+MSc Mathematics with Data Science graduate with a strong foundation in statistical modeling, machine learning, and data-driven problem solving. Experienced in building end-to-end projects spanning deep learning, natural language processing, and business intelligence — from CNN-based medical image classifiers to interactive Power BI and Tableau dashboards. Skilled at translating complex data into clear, actionable insights, with a keen eye for both technical rigor and visual storytelling. Currently seeking opportunities as a Data Scientist or Data Analyst to apply this expertise to real-world business challenges.
 
-- 🔭 Currently working on **NeuroVision AI** — brain tumor MRI classification
-- 🌱 Exploring ML, NLP, Power BI, Tableau, and SQL
-- 📫 Reach me on [LinkedIn](https://linkedin.com/in/shibila-sherin-m-99881b3a1)
+📫 Reach me on [LinkedIn](https://linkedin.com/in/shibila-sherin-m-99881b3a1)
 
 ---
 
@@ -53,6 +51,15 @@ MSc Mathematics with Data Science graduate from Kerala, building end-to-end proj
 | [Bengaluru House Price Prediction](https://github.com/shibilasherinn/REPO_LINK) | Regression model comparison (Random Forest best, R²: 0.69) | Python, Scikit-learn |
 
 📌 *See [pinned repositories](https://github.com/shibilasherinn) below for more projects.*
+
+---
+
+### 📬 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/shibila-sherin-m-99881b3a1">LinkedIn</a> •
+  <a href="https://github.com/shibilasherinn">GitHub</a>
+</p>
 
 ---
 
