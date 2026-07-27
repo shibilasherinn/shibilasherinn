@@ -10,11 +10,10 @@
 
 ### 👩‍💻 About Me
 
-I'm an MSc Mathematics with Data Science graduate based in Thrissur, Kerala, India, passionate about turning data into decisions. I build end-to-end projects across machine learning, NLP, and business intelligence — from model development to interactive dashboards. Currently seeking Data Scientist / Data Analyst roles, and open to teaching opportunities as well.
+MSc Mathematics with Data Science graduate from Kerala, building end-to-end projects across ML, NLP, and BI. Seeking Data Scientist / Data Analyst roles.
 
-- 🔭 Currently working on **NeuroVision AI** — a hybrid ConvNeXt-Tiny + Swin Transformer brain tumor MRI classifier
-- 🌱 Continuously building projects across ML, NLP, Power BI, Tableau, and SQL
-- 💬 Ask me about CNNs, transfer learning, Power BI DAX, or NLP classifiers
+- 🔭 Currently working on **NeuroVision AI** — brain tumor MRI classification
+- 🌱 Exploring ML, NLP, Power BI, Tableau, and SQL
 - 📫 Reach me on [LinkedIn](https://linkedin.com/in/shibila-sherin-m-99881b3a1)
 
 ---
