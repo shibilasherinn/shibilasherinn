@@ -57,15 +57,6 @@ I'm an MSc Mathematics with Data Science graduate based in Thrissur, Kerala, Ind
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shibilasherinn&show_icons=true&theme=default&hide_border=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shibilasherinn&layout=compact&hide_border=true" height="165">
-</p>
-
----
-
 ### 📬 Connect With Me
 
 <p align="center">
